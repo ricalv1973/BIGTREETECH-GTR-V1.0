@@ -3,5 +3,5 @@ BIGTREETECH GTR V1.0 motherboard is a high-performance 3D printer main control b
 
 
 # THIS REPOSITORY IS A COMBINATION OF
-Victor Oliveira / rhapsodyv Marlin release for Tronxy machines and BIGTREETECH Marlin release for the GTR, where I have updated the configuration to adapt Tronxy machines to SKR and GTR boards.
+Victor Oliveira / rhapsodyv Marlin  release for Tronxy machines and BIGTREETECH Marlin release for the GTR, where I have updated the configuration to adapt Tronxy machines to SKR and GTR boards.
 
